@@ -12,7 +12,7 @@
 
 ## Visão Geral
 
-O **Desafio Neki** é uma aplicação fullstack  para gerenciamento de eventos, desenvolvida com **Spring Boot 3.5.5**  e **React 19.1.1**. O projeto oferece uma solução para criação, edição e visualização de eventos.
+O **Desafio Neki** é uma aplicação fullstack  para gerenciamento de eventos, desenvolvida com **Spring Boot 3.5.5**  e **React 19.1.1**. O projeto oferece uma solução para criação, edição e visualização de eventos. Desenvolvimento como processo seletivo para NEKI.
 
 ### Principais Características
 
